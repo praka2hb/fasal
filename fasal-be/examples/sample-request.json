@@ -1,0 +1,33 @@
+{
+  "location": {
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "region": "Delhi, India"
+  },
+  "soilData": {
+    "ph": 7.2,
+    "nitrogen": 45,
+    "phosphorus": 23,
+    "potassium": 56,
+    "organicMatter": 3.2,
+    "soilType": "loamy"
+  },
+  "climate": {
+    "averageTemperature": 25,
+    "rainfall": 600,
+    "humidity": 65,
+    "season": "monsoon"
+  },
+  "farmingDetails": {
+    "farmSize": 5.5,
+    "budget": 50000,
+    "experience": "intermediate",
+    "irrigationAvailable": true,
+    "previousCrops": ["wheat", "rice"]
+  },
+  "preferences": {
+    "cropType": "both",
+    "sustainabilityFocus": true,
+    "organicFarming": false
+  }
+}
